@@ -20,6 +20,7 @@
 /************************************************
   DEFINICIONES DE CONSTANTES Y/O MASCARAS
  ************************************************/
+#define GIT "hola_git"
 #define RETARDO (100000)
 #define RETARDO2 (10000)
 #define PIN0    (0x01)  //definimos el numero Hexadecimal segun el Pin del PUERTO
